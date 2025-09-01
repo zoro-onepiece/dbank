@@ -1,3 +1,8 @@
+# `Notes by author of Repo`
+
+This is updated version of dbank project.If you took course 'Full stack web development by Angela Yu' then this repo is perfect for you.
+I have opened discussions, so  project related things are welcome!  
+
 # `dbank2`
 
 Welcome to your new `dbank2` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
